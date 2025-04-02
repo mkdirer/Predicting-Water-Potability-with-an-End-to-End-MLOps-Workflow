@@ -1,7 +1,7 @@
 
 # Predicting Water Potability with an End-to-End MLOps Workflow
 
-Hi there! 👋 This project is a hands-on example of how to apply MLOps practices to build a real-world solution that predicts if water is safe to drink. We use **MLflow** to monitor model training, **DVC** to manage data and model versions, and wrap it all up in a user-friendly desktop app built with **Tkinter**.
+Hi there! 👋 This project is a hands-on example of how to apply MLOps practices to build a real-world solution that predicts if water is safe to drink. We use **MLflow** to monitor model training, **DVC** to manage data and model versions, and wrap it all up in a user-friendly desktop app built with **Tkinter**. 
 
 ## What’s This About?
 
